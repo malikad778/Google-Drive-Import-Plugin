@@ -3,7 +3,7 @@
 Plugin Name: Google Drive Video Importer
 Description: Import video files from Google Drive into the WordPress Media Library.
 Version: 1.0
-Author: Your Name
+Author: Mali Adnan
 */
 
 if (!defined('ABSPATH')) exit;
